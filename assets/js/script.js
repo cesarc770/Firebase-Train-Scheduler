@@ -94,7 +94,7 @@ $(document).ready(function(){
 
       //add to row
       var remaindingMinutes = $("<td>").html(tMinutesTillTrain);
-      var nextTrainData = $("<td>").html(moment(nextTrain).format("hh:mm"));
+      var nextTrainData = $("<td>").html(moment(nextTrain).format("hh:mm A"));
       newRow.append(nextTrainData).append(remaindingMinutes);
      }
 
