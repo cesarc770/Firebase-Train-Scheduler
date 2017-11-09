@@ -3,3 +3,17 @@
 	margin-left: 10%;
 	margin-right: 10%;
 }
+
+@media screen and (max-width: 640px) {
+	#main-content{
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+	thead{
+		font-size: 11px;
+	}
+	tbody{
+		font-size: 9px;
+	}
+}
