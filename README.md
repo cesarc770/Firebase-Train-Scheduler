@@ -12,7 +12,7 @@ Then, fill out the form to add a train to the schedule
 
 Finally, observe the schedule table where your train will be added
 
-![Train Schedule](trainshedule.png)
+![Train Schedule](trainschedule.png)
 
 ## Built With
 
