@@ -8,11 +8,11 @@ You can save multiple trains that you want to keep track of. I use front end tec
 First, go to https://cesarc770.github.io/Firebase-Train-Scheduler/
 Then, fill out the form to add a train to the schedule
 
-[!Alt](trainform.png)
+![Add Train Form](trainform.png)
 
 Finally, observe the schedule table where your train will be added
 
-[!Alt](trainshedule.png)
+![Train Schedule](trainshedule.png)
 
 ## Built With
 
